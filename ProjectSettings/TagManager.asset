@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Prop
+  - Ground
+  - CheckPoint
+  - One-Way Platform
+  - Pickup
+  - Hazard
+  - Enemy
+  - Bullet
+  - Ramp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Prop
+  - DeathPlane
+  - CheckPoint
+  - Camera Confiner
+  - Platform
+  - Enemy
+  - Pickup
+  - Bullet
+  - Ramp
+  - Marker
+  - Hazard
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1606575969
+    locked: 0
+  - name: Foreground
+    uniqueID: 660939079
+    locked: 0
+  - name: Platform
+    uniqueID: 2478674907
+    locked: 0
+  - name: Prop
+    uniqueID: 1897903559
+    locked: 0
+  - name: Bullet
+    uniqueID: 3472286321
+    locked: 0
+  - name: Dust Trail
+    uniqueID: 2123502339
+    locked: 0
+  - name: Player
+    uniqueID: 503702405
+    locked: 0
+  - name: Enemy
+    uniqueID: 2119053191
+    locked: 0
+  - name: UI
+    uniqueID: 714193861
+    locked: 0
